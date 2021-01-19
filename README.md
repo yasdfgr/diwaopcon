@@ -17,5 +17,5 @@ dishwasher open controller
 
 ## other projects
 https://github.com/cheungbx/dishwasher<br>
-https://github.com/ChrisMancini/DishwasherMonitor>br>
+https://github.com/ChrisMancini/DishwasherMonitor<br>
 https://github.com/Nateowami/arduino-dishwasher<br>
