@@ -14,3 +14,8 @@ dishwasher open controller
 ## possible technologys
 -Ardino based boards
 -RasperryPi
+
+## other projects
+https://github.com/cheungbx/dishwasher<br>
+https://github.com/ChrisMancini/DishwasherMonitor>br>
+https://github.com/Nateowami/arduino-dishwasher<br>
